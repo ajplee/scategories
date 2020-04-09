@@ -1,3 +1,3 @@
 # scategories
 
-simple scategories implementation for quarantine bordem
+simple scategories implementation for quarantine boredom
